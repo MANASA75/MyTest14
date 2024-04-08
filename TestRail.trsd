@@ -1,0 +1,70 @@
+{
+  "RanorexSuites": [
+    {
+      "Id": "b22b6398-037e-47c2-968f-b212541cfacb/a7abc168-8d50-4e41-9d38-4551780365e7",
+      "Pid": "40bcda6e-258a-4b63-93fe-a9bf41a591bd/b22b6398-037e-47c2-968f-b212541cfacb",
+      "Name": "MyTest14"
+    }
+  ],
+  "CaseFields": [],
+  "ResultFields": [],
+  "TestRailProject": {
+    "Id": "P53",
+    "Pid": null,
+    "Name": "MyTest14",
+    "BaseUri": "https://ranorexsupport.testrail.io/",
+    "ProjectSuiteMode": 3,
+    "ProjectCustomizations": {
+      "TemplateId": 1,
+      "CaseTypeId": 3
+    }
+  },
+  "Projects": [
+    {
+      "Rx": {
+        "Id": "40bcda6e-258a-4b63-93fe-a9bf41a591bd/b22b6398-037e-47c2-968f-b212541cfacb",
+        "Pid": "40bcda6e-258a-4b63-93fe-a9bf41a591bd/40bcda6e-258a-4b63-93fe-a9bf41a591bd",
+        "Name": "MyTest14"
+      },
+      "Tr": null
+    }
+  ],
+  "TestSuites": [
+    {
+      "Rx": {
+        "Id": "b22b6398-037e-47c2-968f-b212541cfacb/a7abc168-8d50-4e41-9d38-4551780365e7",
+        "Pid": "40bcda6e-258a-4b63-93fe-a9bf41a591bd/b22b6398-037e-47c2-968f-b212541cfacb",
+        "Name": "MyTest14"
+      },
+      "Tr": {
+        "Id": "S72",
+        "Pid": "P53",
+        "Name": "MyTest14"
+      }
+    }
+  ],
+  "Sections": [
+    {
+      "Rx": null,
+      "Tr": {
+        "Id": "G316",
+        "Pid": "S72",
+        "Name": "MyTest14"
+      }
+    }
+  ],
+  "Cases": [
+    {
+      "Rx": {
+        "Id": "a7abc168-8d50-4e41-9d38-4551780365e7/f8bec793-5a32-48bf-8303-42a53fd3030f",
+        "Pid": "b22b6398-037e-47c2-968f-b212541cfacb/a7abc168-8d50-4e41-9d38-4551780365e7",
+        "Name": "TestCase"
+      },
+      "Tr": {
+        "Id": "C2361",
+        "Pid": "G316",
+        "Name": "TestCase"
+      }
+    }
+  ]
+}
