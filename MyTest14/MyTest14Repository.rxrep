@@ -1,0 +1,58 @@
+﻿<repository
+id="a94d7a2e-4de4-438d-a093-48e349990c1e"
+name="MyTest14Repository">
+	<codegen
+	classname="MyTest14Repository"
+	namespace="MyTest14">
+	</codegen>
+	<rootfolder
+	capname="unknown"
+	id="4defd455-ef94-4c2b-8496-577afff74cc0"
+	isrooted="True"
+	name="Root"
+	searchtimeout="0ms"
+	usecache="True">
+		<appfolder
+		addcaps="container,webdocument"
+		capname="webdocument"
+		id="2597e888-0881-4f81-aa35-a27714beed59"
+		isrooted="True"
+		name="ApplicationUnderTest"
+		searchtimeout="30000ms"
+		usecache="False">
+			<item
+			addcaps="unknown,webelement,h1tag"
+			capname="h1tag"
+			id="fa6ae4fc-5a88-4767-bd60-c73d93f0bd28"
+			name="FunctionalUITestAutomationWithIntel"
+			refimgid="707846af-5b74-448e-94e7-c0851149a286"
+			refpath="/dom[@domain='www.ranorex.com']//div[#'main-content']/article/div/div/div/div[1]/div/div[1]/div[1]/div/h1[@innertext>'Functional UI Test Automation']"
+			robustPath="/dom[@domain='www.ranorex.com']//div[#'main-content']//h1[@innertext>'Functional UI Test Automation']"
+			searchtimeout="30000ms">
+				/dom[@domain='www.ranorex.com']//div[#'main-content']/article/div/div/div/div[1]/div/div[1]/div[1]/?/?/h1[@innertext&gt;'Functional UI Test Automation']
+			</item>
+			<basepath>
+				/dom[@domain='www.ranorex.com']
+			</basepath>
+			<icon>
+				iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAABGdBTUEAALGPC/xhBQAAACBjSFJN
+AAB6JgAAgIQAAPoAAACA6AAAdTAAAOpgAAA6mAAAF3CculE8AAAAGHRFWHRTb2Z0d2FyZQBQYWlu
+dC5ORVQgdjMuMzE3g3eGAAACKklEQVQ4T43R20vTcRjHcS/6G4Kgyy6KKKjwJogIDBJjIBUt2YVD
+yoGVmWUWzozMC92YaWqeSE1s0dThOtjBWUlKkMxDudXU1lCU6XSepzu82+/nvNrX6APP1e95Xt/f
+9/vEbaWh7TO1xi4qmjspfWKhuLqN++VGtLqn5BTVk1lQRbRVHGn4X8nTNclYtD020smBYDjaHhsJ
+cIxPbY8YIr+9viEGgqGwDBxLvixXfGJaLCLdedUfCwRDyPDKWoiF5SAuT0AMSA+2BXhXZqmydFBu
+bkfbmkFpayPOyQW8CwHs7jUxIN1NOkEa1llLGA7bsYX7KbTd4GiuiUuVbxhyzTMwuiwGpFX5lkLU
+dFjJ+55Mw5yGGpsRtX6Kk2Ue9jWewtBRx9eRJTEg7XnWF+TBo25SzUmo3inINLjIKoPD1QXsbNvN
+6fxr9Az5xIDm9kOm5gLce+xEW/aF1BYlCmshSr2PMxm32HV3B8ez0/jQPycG1NklTMxsUGUaQaMD
+lc7EIcse4vXJJF18xX7FVUpq6njd5xUDKVeKcE2v4xib52bxIAdza9mbf4CE9OscUZo5q3nO295p
+zD0zYuBcegHOCb+8KpvDi6G5hRMX8klIKaei6b083PdjCdNHjxhQqO/gcPsj77CB27PO2OQa9j+r
+8tq+/VyODC/yaXBxeyBRlUPv8Dzt3eO86PrNs85Rml7+ot7soLrVTqVpsypMTjGQcD5L/vC/tTkV
+F/cXNG0rDkAnVtkAAAAASUVORK5CYII=
+			</icon>
+		</appfolder>
+		<basepath>
+		</basepath>
+	</rootfolder>
+	<variables>
+	</variables>
+</repository>

@@ -1,0 +1,12 @@
+C:\Users\manasa.peddapalli\Documents\Ranorex\RanorexStudio Projects\MyTest14\MyTest14\bin\Debug\MyTest14.rxtmg
+C:\Users\manasa.peddapalli\Documents\Ranorex\RanorexStudio Projects\MyTest14\MyTest14\bin\Debug\MyTest14.rxtst
+C:\Users\manasa.peddapalli\Documents\Ranorex\RanorexStudio Projects\MyTest14\MyTest14\bin\Debug\MyTest14.exe.config
+C:\Users\manasa.peddapalli\Documents\Ranorex\RanorexStudio Projects\MyTest14\MyTest14\bin\Debug\MyTest14.xml
+C:\Users\manasa.peddapalli\Documents\Ranorex\RanorexStudio Projects\MyTest14\MyTest14\bin\Debug\MyTest14.exe
+C:\Users\manasa.peddapalli\Documents\Ranorex\RanorexStudio Projects\MyTest14\MyTest14\bin\Debug\MyTest14.pdb
+C:\Users\manasa.peddapalli\Documents\Ranorex\RanorexStudio Projects\MyTest14\MyTest14\bin\Debug\Ranorex.Core.Resolver.dll
+C:\Users\manasa.peddapalli\Documents\Ranorex\RanorexStudio Projects\MyTest14\MyTest14\obj\x86\Debug\MyTest14.csproj.AssemblyReference.cache
+C:\Users\manasa.peddapalli\Documents\Ranorex\RanorexStudio Projects\MyTest14\MyTest14\obj\x86\Debug\MyTest14.csproj.CoreCompileInputs.cache
+C:\Users\manasa.peddapalli\Documents\Ranorex\RanorexStudio Projects\MyTest14\MyTest14\obj\x86\Debug\MyTest14.csproj.CopyComplete
+C:\Users\manasa.peddapalli\Documents\Ranorex\RanorexStudio Projects\MyTest14\MyTest14\obj\x86\Debug\MyTest14.exe
+C:\Users\manasa.peddapalli\Documents\Ranorex\RanorexStudio Projects\MyTest14\MyTest14\obj\x86\Debug\MyTest14.pdb
